@@ -33,6 +33,8 @@
 <div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juoklee&show_icons=true&theme=vue)
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jubby)](https://velog.io/@jubby/MySQL로-구현한-회원관리CRUD를-sequelize로-바꿔보기)
 
 </div>
 
