@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&timeAuto=auto&height=300&section=header&text=Juok%20Lee&animation=fadeIn&fontSize=100&rotate=20" />
-
-</br>
-
 **<p align="center">🛠 Tech Stack 🛠</p>**
 
 <p align="center">
